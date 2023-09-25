@@ -75,7 +75,7 @@ p {
 }
 
 .menu:hover {
-    background-color: rgb(34, 158, 34);
+    background-color: rgb(60, 196, 60);
     width: auto;
     height: auto;
     border-radius: 3px;
@@ -183,8 +183,6 @@ footer {
     font-size: 16px;
     font-weight: bold;
     background-color: darkgreen;
-    height: 4px;
-    padding-bottom: 24px;
     border-radius: 4px;
 }
 
@@ -226,7 +224,7 @@ li {
     }
 
     footer {
-        font-size: 1.6vw;
+        font-size: 1.7vw;
     }
 
     a.link-footer {
